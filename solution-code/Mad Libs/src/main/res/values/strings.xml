@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activities-and-Intents-Lab</string>
+    <string name="madLib">A vacation is when you take a trip to some &lt;b>%1$s&lt;/b> place with your &lt;b>%2$s&lt;/b> family. Usually, you go to some place that is near a &lt;b>%3$s&lt;/b> plant or up on a &lt;b>%4$s&lt;/b>. A good vacation place is one where you can ride &lt;b>%5$s&lt;/b> or play &lt;b>%6$s&lt;/b> </string>
+</resources>
